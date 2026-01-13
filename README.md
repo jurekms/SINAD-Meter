@@ -20,7 +20,7 @@ pomiaru **SINAD (filtry + RMS)** z nowoczesnym przetwarzaniem cyfrowym.
 - architektura zgodna z klasycznymi miernikami laboratoryjnymi  
   (HP, Rohde & Schwarz)
 
-Projekt został zaprojektowany z naciskiem na:
+Projekt powstał z naciskiem na:
 - powtarzalność pomiarów
 - niskie zniekształcenia własne
 - możliwość kalibracji
