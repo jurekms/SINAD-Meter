@@ -17,8 +17,6 @@ pomiaru **SINAD (filtry + RMS)** z nowoczesnym przetwarzaniem cyfrowym.
 - wyjście analogowe **DAC** do sterowania:
   - miernikiem µA (wskaźnik analogowy)
   - lub zewnętrznym woltomierzem
-- architektura zgodna z klasycznymi miernikami laboratoryjnymi  
-  (HP, Rohde & Schwarz)
 
 Projekt powstał z naciskiem na:
 - powtarzalność pomiarów
@@ -46,8 +44,6 @@ signal processing techniques.
 - analog **DAC output** for driving:
   - an analog µA meter
   - or an external voltmeter
-- architecture consistent with traditional laboratory SINAD meters  
-  (HP, Rohde & Schwarz)
 
 The project focuses on:
 - measurement repeatability
